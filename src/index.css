@@ -1,0 +1,50 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: rgba(208, 226, 114, 0.678);
+}
+::-webkit-scrollbar {
+    width: 3px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgb(197, 12, 12);
+
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(230, 0, 0);
+
+}
+.navbar .active {
+    color: rgb(254, 5, 5);
+
+}
+
+.navbar .active::after {
+    left: 0;
+    width: 100%;
+}
+.navbar .nav:hover::after{
+    left: 0;
+    width: 100%;
+}
+
+
+.navbar ::after {
+    position: absolute;
+    content: "";
+    left: 50px;
+    height: 3px;
+    background: rgb(254, 5, 5);
+    transition: .3s;
+    bottom: -4px;
+    width: 0;
+}
+
+.cardlink .active{
+    color: rgb(251, 38, 38);
+}
