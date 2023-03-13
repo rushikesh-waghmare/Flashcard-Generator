@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/static/css/main.c0adb18a.css",
+    "main.js": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/static/js/main.1e6c1f0f.js",
+    "static/js/498.b7b9c6f6.chunk.js": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/static/js/498.b7b9c6f6.chunk.js",
+    "static/js/703.2380344d.chunk.js": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/static/js/703.2380344d.chunk.js",
+    "static/js/541.25afe412.chunk.js": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/static/js/541.25afe412.chunk.js",
+    "static/js/787.254fd7c3.chunk.js": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/static/js/787.254fd7c3.chunk.js",
+    "static/media/golden-tower.jpg": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/static/media/golden-tower.b25d38095257b29a8517.jpg",
+    "index.html": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/index.html",
+    "main.c0adb18a.css.map": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/static/css/main.c0adb18a.css.map",
+    "main.1e6c1f0f.js.map": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/static/js/main.1e6c1f0f.js.map",
+    "498.b7b9c6f6.chunk.js.map": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/static/js/498.b7b9c6f6.chunk.js.map",
+    "703.2380344d.chunk.js.map": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/static/js/703.2380344d.chunk.js.map",
+    "541.25afe412.chunk.js.map": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/static/js/541.25afe412.chunk.js.map",
+    "787.254fd7c3.chunk.js.map": "/https//rushikesh-waghmare.github.io/Flashcard-Generator/static/js/787.254fd7c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0adb18a.css",
+    "static/js/main.1e6c1f0f.js"
+  ]
+}
