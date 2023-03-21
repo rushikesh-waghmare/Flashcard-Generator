@@ -10,7 +10,7 @@ This is a Flashcard Generator frontend capston project that Almabetter has provi
 Visit my website for a flashcard maker by clicking the link.
 
 
-  https:
+  https:https://lively-souffle-b934f0.netlify.app
 
 
 
