@@ -22,7 +22,7 @@ Visit my website for a flashcard maker by clicking the link.
 Clone the project
 
 bash
-  git clone https:
+  git clone 
 
 
 
