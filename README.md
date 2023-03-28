@@ -15,7 +15,7 @@ Visit my website for a flashcard maker by clicking the link.
 
 
 ## Watch Explanation video  
-- [video link]
+- [video link]- https://drive.google.com/file/d/1-2f56HA0AUzmxkDWrbS3RVTSFT7tx4bi/view?usp=sharing
 
 ## Run Locally
 
